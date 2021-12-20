@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+F:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(117,20): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+F:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(314,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+F:\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(215): warning C4717: rrannd: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  ConsoleApplication1.vcxproj -> F:\ConsoleApplication1\Debug\ConsoleApplication1.exe
